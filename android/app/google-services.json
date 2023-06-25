@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1008691127049",
+    "project_id": "btlreactnative",
+    "storage_bucket": "btlreactnative.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008691127049:android:1f0aa207227c8d657ce9d8",
+        "android_client_info": {
+          "package_name": "com.btl_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008691127049-gi7783vo0b648ogihncrsubmgkp7gblr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkpQ3SGW5XxKukL_59etmoOPXeugq0S8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008691127049-gi7783vo0b648ogihncrsubmgkp7gblr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
